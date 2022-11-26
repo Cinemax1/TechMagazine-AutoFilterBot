@@ -3,19 +3,21 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """🍃 му иαмє :<a href=https://t.me/Eva_maria_bot> °•°✮мяѕ єνα❥‌⃟⃝🥀</a>
+    ABOUT_TXT = """<b>🍃 му иαмє :<a href=https://t.me/Eva_maria_bot> °•°✮мяѕ єνα❥‌⃟⃝🥀</a>
 🍃 ¢яєαтσя : <a href=https://t.me/Sachusachuz> 🖤⃝ѕαϲнυ🖤⃝ ѕαϲнυz࿐</a>
 🍃 ℓαиgυαgє : ρутнσи
 🍃 ℓιвяαяу : ρуяσgяαм
 🍃 ѕєяνєя : κογєϐ
 🍃 ∂αтα вαѕє : мσиgσ ∂в
-🍃 вυιℓ∂ ѕтαтυѕ : ν10.0 [ɞeṭa]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- TechMagazine-AutoFilterBot is a open source project. 
-- Source - https://github.com/itsyogieu/TechMagazine-AutoFilterBot
+🍃 вυιℓ∂ ѕтαтυѕ : ν10.0 [ɞeṭa]</b>"""
+    SOURCE_TXT = """<b>അയ്യേ... പറ്റിച്ചേ... 😹
+
+എന്തായാലും വന്നതല്ലേ. ഇവിടെ കാണുന്ന 🅖︎🅡︎🅞︎🅤︎🅟︎ ൽ 🅙︎🅞︎🅘︎🅝︎ ചെയ്തേക്ക് 😎💯
+
+<a href=https://t.me/CinemaXpressTM>𝐂ɪɴᴇᴍᴀ𝐗ᴘʀᴇ𝐬𝐬𝐓𝐌</a></b>
 
 <b>DEVS:</b>
-- <a href=https://t.me/TechMagazineYT>TechMagazine</a>"""
+- <a href=https://t.me/Sachusachuz>༒‌🖤⃝ѕαϲнυ🖤⃝ ѕαϲнυz࿐</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -40,7 +42,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TechMagazineYT)</code>
+<code>[Button Text](buttonurl:https://t.me/CxMain)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -91,11 +93,11 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """📂 ᴛᴏᴛᴀʟ ғɪʟᴇs: <code>{}</code>
+    STATUS_TXT = """<b>📂 ᴛᴏᴛᴀʟ ғɪʟᴇs: <code>{}</code>
 👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
 ♻️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
 🗃️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱
-🆓 ғʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱"""
+🆓 ғʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱</b>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
